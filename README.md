@@ -10,11 +10,11 @@ Aufgerufen wird die Application mit /calc?feet=1 also wenn es local aufgerufen w
 
 Umsetung der Schritte
 
--> Anlegen des Projkts in InteliJ
--> verbinden mit GIT Repository
--> GIT: Anlegen der Actions, einmal für dev und einmal für master
--> GIT: Anlegen der User Stories
--> IDE: Anlegen des Brunch "dev"
--> IDE push to GIT
--> IDE: Anlegen des Brunch "feature_calc"
--> IDE push to GIT
+-> Anlegen des Projkts in InteliJ <br>
+-> verbinden mit GIT Repository <br>
+-> GIT: Anlegen der Actions, einmal für dev und einmal für master<br>
+-> GIT: Anlegen der User Stories<br>
+-> IDE: Anlegen des Brunch "dev"<br>
+-> IDE push to GIT<br>
+-> IDE: Anlegen des Brunch "feature_calc"<br>
+-> IDE push to GIT<br>
